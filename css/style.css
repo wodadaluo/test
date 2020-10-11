@@ -43,7 +43,7 @@ body {
   content: "";
   position: absolute;
   width: 100%;
-  height: 2.22222222px;
+  height: 50px;
 }
 
 .velas:after {
